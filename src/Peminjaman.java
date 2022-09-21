@@ -11,8 +11,9 @@ public class Peminjaman{
         hargaBayar = lamasewa * harga;
     }
     public void cetakData(){
-        System.out.println("id Pelanggan        :  "+ id);
-        System.out.println("Nama Pelanggan      :  "+ namaMember);
+        System.out.println("id Pelanggan        :  " + id);
+        System.out.println("Nama Pelanggan      :  " + namaMember);
+        System.out.println("Nama Game           :  " + namaGame);
         System.out.println("Harga Sewa          :  " + harga); 
         System.out.println("Lama Sewa           :  " + lamasewa);
         System.out.println("Total Bayar         :  " + hargaBayar);

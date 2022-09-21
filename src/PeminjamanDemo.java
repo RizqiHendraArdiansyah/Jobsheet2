@@ -4,7 +4,7 @@ public class PeminjamanDemo {
         Peminjaman pj = new Peminjaman();
         pj.id = 01;
         pj.namaMember = "Rizqi Hendra";
-        pj.namaGame = "Pro Evolution  Soccer 2023";
+        pj.namaGame = "Pro Evolution Soccer 2023";
         pj.harga = 6000;
         pj.lamasewa = 2;
         pj.totalHarga();
